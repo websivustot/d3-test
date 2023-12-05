@@ -1,3 +1,7 @@
+# D3.js + React app
+
+A combination React's and D3's JavaScript library for visualizing data to create dashboards.
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
